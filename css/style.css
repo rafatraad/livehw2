@@ -1,0 +1,30 @@
+.carousel-control-prev-icon, .carousel-control-next-icon {
+   
+    width: 4rem;
+    height: 4rem;
+   
+}
+.carousel-indicators [data-bs-target] {
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+}
+
+.about{
+    padding: 80px 0;
+}
+.a_img{
+    padding-top: 50px;
+    width: 100%;
+}
+.a_img img{
+    width: 500px;
+    height: 500px;
+}
+
+.a_content{
+    padding-top: 60px;
+}
+.a_content
+p{
+    text-align: justify;
